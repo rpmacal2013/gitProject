@@ -1,3 +1,3 @@
 {}
-const a = 100;
 const x = () => {};
+const a = 999999;
